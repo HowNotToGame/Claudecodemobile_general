@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "cracked": {
+      "source": { "source": "github", "repo": "nishant-Tiwari24/cracked" }
+    }
+  },
+  "enabledPlugins": {
+    "cracked@cracked": true
+  }
+}
